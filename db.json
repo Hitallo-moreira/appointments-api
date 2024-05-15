@@ -1,0 +1,39 @@
+{
+  "schedules": [
+    {
+      "id": "6156",
+      "selectedDateTime": "04-03-2024",
+      "selectedTime": "13:00"
+    },
+    {
+      "id": "aa86",
+      "selectedDateTime": "11-03-2024",
+      "selectedTime": "10:00"
+    },
+    {
+      "id": "29ae",
+      "selectedDateTime": "27-03-2024",
+      "selectedTime": "12:30"
+    },
+    {
+      "id": "c94a",
+      "selectedDateTime": "20-03-2024",
+      "selectedTime": "13:00"
+    },
+    {
+      "id": "9f2d",
+      "selectedDateTime": "13-03-2024",
+      "selectedTime": "12:00"
+    },
+    {
+      "id": "658d",
+      "selectedDateTime": "20-03-2024",
+      "selectedTime": "18:30"
+    },
+    {
+      "id": "9d4e",
+      "selectedDateTime": "08-03-2024",
+      "selectedTime": "15:00"
+    }
+  ]
+}
